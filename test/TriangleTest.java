@@ -31,7 +31,5 @@ public class TriangleTest {
     @Test
     public void testRight() throws Exception {
         assertEquals("*\n" + "**\n" + "***\n", triangle.rightTriangle(3));
-
-
     }
 }

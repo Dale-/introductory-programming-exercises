@@ -21,7 +21,7 @@ public class FizzBuzz {
 
     public static void main(String[] args) {
         FizzBuzz fizzBuzz = new FizzBuzz();
-        System.out.println(fizzBuzz.fizzBuzz(15));
+        System.out.println(fizzBuzz.fizzBuzz(100));
     }
 
 }
