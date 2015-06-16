@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b344d4-8b0e-4a6e-a955-a827596e5200" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/TriangleTest.java" afterPath="$PROJECT_DIR$/test/TriangleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" />
     </list>
     <ignored path="introductory-programming-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +38,8 @@
       <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25917926">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.45356372">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -126,8 +124,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="705" />
-    <option name="y" value="56" />
+    <option name="x" value="244" />
+    <option name="y" value="33" />
     <option name="width" value="981" />
     <option name="height" value="824" />
   </component>
@@ -240,7 +238,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TriangleTest">
+  <component name="RunManager" selected="Application.FizzBuzz">
     <configuration default="false" name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Triangle" />
@@ -290,6 +288,21 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="introductory-programming-exercises" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -593,16 +606,18 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.Triangle" />
       <item index="1" class="java.lang.String" itemvalue="Application.Diamond" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FizzBuzz" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Diamond" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Triangle" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.FizzBuzz" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TriangleTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Diamond" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -625,15 +640,15 @@
       <updated>1434274920301</updated>
       <workItem from="1434274921841" duration="7875000" />
       <workItem from="1434464465939" duration="3375000" />
-      <workItem from="1434471088449" duration="1344000" />
+      <workItem from="1434471088449" duration="1845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12594000" />
+    <option name="totallyTimeSpent" value="13095000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="705" y="56" width="981" height="824" extended-state="0" />
+    <frame x="244" y="33" width="981" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -778,8 +793,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25917926">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.45356372">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>
