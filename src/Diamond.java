@@ -31,6 +31,15 @@ public class Diamond {
         return centeredDiamond;
     }
 
+    public String diamondWithName(int n) {
+        String nameDiamond = this.diamond(n);
+        String middleLine = "";
+        for (int i = 0; i < 2 * n - 1; i++) {
+            middleLine += "*";
+        }
+        return nameDiamond.replace(middleLine, "DaleDu");
+    }
+
     public static void main(String[] args) {
         Diamond diamond = new Diamond();
 
@@ -39,5 +48,8 @@ public class Diamond {
 
         System.out.println("\nDiamond");
         System.out.println(diamond.diamond(3));
+
+        System.out.println("\nDiamond with Name");
+        System.out.println(diamond.diamondWithName(3));
     }
 }
