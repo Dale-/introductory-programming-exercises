@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="08b344d4-8b0e-4a6e-a955-a827596e5200" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/FizzBuzz.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="introductory-programming-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -124,8 +125,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="244" />
-    <option name="y" value="33" />
+    <option name="x" value="53" />
+    <option name="y" value="29" />
     <option name="width" value="981" />
     <option name="height" value="824" />
   </component>
@@ -640,15 +641,15 @@
       <updated>1434274920301</updated>
       <workItem from="1434274921841" duration="7875000" />
       <workItem from="1434464465939" duration="3375000" />
-      <workItem from="1434471088449" duration="1845000" />
+      <workItem from="1434471088449" duration="1858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13095000" />
+    <option name="totallyTimeSpent" value="13108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="244" y="33" width="981" height="824" extended-state="0" />
+    <frame x="53" y="29" width="981" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
